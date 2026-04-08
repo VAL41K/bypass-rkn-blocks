@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/gi
 https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt
 
 https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt
+
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
 
 https://obwl.obprojects.lol/sub.txt
