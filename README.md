@@ -4,11 +4,19 @@
 
 Подписка WL собрана из:
 
+https://sub.obbhod.online/premium
+
+https://mifa.world/vless
+
+https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt
+
+https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full
+
+https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/configs/url_work.txt
+
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt
 
 https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt
-
-https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt
 
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
 
