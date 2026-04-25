@@ -8,6 +8,12 @@ https://sub.obbhod.online/premium
 
 https://mifa.world/vless
 
+https://mifa.world/hysteria
+
+https://mifa.world/trojan
+
+https://mifa.world/ss
+
 https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt
 
 https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full
@@ -25,11 +31,19 @@ https://obwl.obprojects.lol/sub.txt
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/whitelist
 
 Подписка BL собрана из:
+
 https://mifa.world/vless
+
 https://mifa.world/hysteria
+
 https://mifa.world/trojan
+
 https://mifa.world/ss
+
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
+
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt
+
 https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt
+
 https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/wifi
