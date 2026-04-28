@@ -26,8 +26,6 @@ https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY
 
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
 
-https://obwl.obprojects.lol/sub.txt
-
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/whitelist
 
 Подписка BL собрана из:
