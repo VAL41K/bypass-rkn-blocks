@@ -8,11 +8,11 @@ https://sub.obbhod.online/premium
 
 https://mifa.world/vless
 
-https://mifa.world/hysteria
+https://mifa.world/ss
 
 https://mifa.world/trojan
 
-https://mifa.world/ss
+https://mifa.world/hysteria
 
 https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt
 
@@ -26,17 +26,19 @@ https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY
 
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
 
+https://drive.usercontent.google.com/download?id=1Rl6jIlf2Ula__J9F9nRmCuE6RFdqMTgk&export=download&confirm=t (obproject)
+
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/whitelist
 
 Подписка BL собрана из:
 
 https://mifa.world/vless
 
-https://mifa.world/hysteria
+https://mifa.world/ss
 
 https://mifa.world/trojan
 
-https://mifa.world/ss
+https://mifa.world/hysteria
 
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
 
@@ -45,3 +47,5 @@ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main
 https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt
 
 https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/wifi
+
+https://drive.usercontent.google.com/download?id=1fyDn7sDRr7PEYm18ji30OsuKLoHmok9T&export=download&confirm=t (obproject)
