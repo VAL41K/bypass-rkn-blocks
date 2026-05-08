@@ -8,13 +8,19 @@ https://sub.obbhod.online/premium
 
 https://mifa.world/vless
 
-https://mifa.world/ss
+https://mifa.world/other
+
+https://mifa.world/vmess
 
 https://mifa.world/trojan
 
 https://mifa.world/hysteria
 
+https://mifa.world/ss
+
 https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt
+
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
 
 https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full
 
@@ -24,8 +30,6 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/gi
 
 https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt
 
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
-
 https://drive.usercontent.google.com/download?id=1Rl6jIlf2Ula__J9F9nRmCuE6RFdqMTgk&export=download&confirm=t (obproject)
 
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/whitelist
@@ -34,11 +38,15 @@ https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/h
 
 https://mifa.world/vless
 
-https://mifa.world/ss
+https://mifa.world/other
+
+https://mifa.world/vmess
 
 https://mifa.world/trojan
 
 https://mifa.world/hysteria
+
+https://mifa.world/ss
 
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
 
