@@ -4,8 +4,6 @@
 
 Подписка WL собрана из:
 
-https://sub.obbhod.online/premium
-
 https://mifa.world/vless
 
 https://mifa.world/other
