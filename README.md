@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY
 
 https://drive.usercontent.google.com/download?id=1Rl6jIlf2Ula__J9F9nRmCuE6RFdqMTgk&export=download&confirm=t (obproject)
 
-https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/whitelist
+https://etoneya.su/whitelist
 
 Подписка BL собрана из:
 
