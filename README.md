@@ -4,8 +4,6 @@
 
 Подписка WL собрана из:
 
-https://gist.githubusercontent.com/flaafix/c79a81037d15163360571c7a7331b153/raw/AetrisVPN.txt
-
 https://mifa.world/vless
 
 https://mifa.world/other
@@ -22,9 +20,9 @@ https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt
 
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
 
-https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full
+https://gist.githubusercontent.com/flaafix/c79a81037d15163360571c7a7331b153/raw/AetrisVPN.txt
 
-https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/configs/url_work.txt
+https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full
 
 https://etoneya.su/whitelist
 
