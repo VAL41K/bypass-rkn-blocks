@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full
 
 https://etoneya.su/whitelist
 
-https://drive.usercontent.google.com/download?id=1Rl6jIlf2Ula__J9F9nRmCuE6RFdqMTgk&export=download&confirm=t
+https://drive.usercontent.google.com/download?id=1Rl6jIlf2Ula__J9F9nRmCuE6RFdqMTgk&export=download&confirm=t (@obprojects)
 
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt
 
@@ -54,4 +54,4 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/all_v
 
 https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/wifi
 
-https://drive.usercontent.google.com/download?id=1fyDn7sDRr7PEYm18ji30OsuKLoHmok9T&export=download&confirm=t (obproject)
+https://drive.usercontent.google.com/download?id=1fyDn7sDRr7PEYm18ji30OsuKLoHmok9T&export=download&confirm=t (@obprojects)
