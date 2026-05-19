@@ -4,17 +4,17 @@
 
 Подписка WL собрана из:
 
-https://mifa.world/vless
+https://mifa.world/vless (@mifa_world)
 
-https://mifa.world/other
+https://mifa.world/other (@mifa_world)
 
-https://mifa.world/vmess
+https://mifa.world/vmess (@mifa_world)
 
-https://mifa.world/trojan
+https://mifa.world/trojan (@mifa_world)
 
-https://mifa.world/hysteria
+https://mifa.world/hysteria (@mifa_world)
 
-https://mifa.world/ss
+https://mifa.world/ss (@mifa_world)
 
 https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt
 
@@ -32,17 +32,17 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/gi
 
 Подписка BL собрана из:
 
-https://mifa.world/vless
+https://mifa.world/vless (@mifa_world)
 
-https://mifa.world/other
+https://mifa.world/other (@mifa_world)
 
-https://mifa.world/vmess
+https://mifa.world/vmess (@mifa_world)
 
-https://mifa.world/trojan
+https://mifa.world/trojan (@mifa_world)
 
-https://mifa.world/hysteria
+https://mifa.world/hysteria (@mifa_world)
 
-https://mifa.world/ss
+https://mifa.world/ss (@mifa_world)
 
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
 
