@@ -4,6 +4,8 @@
 
 Подписка WL собрана из:
 
+https://gist.githubusercontent.com/flaafix/c79a81037d15163360571c7a7331b153/raw/AetrisVPN.txt
+
 https://mifa.world/vless
 
 https://mifa.world/other
@@ -24,11 +26,11 @@ https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full
 
 https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/configs/url_work.txt
 
-https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt
-
-https://drive.usercontent.google.com/download?id=1Rl6jIlf2Ula__J9F9nRmCuE6RFdqMTgk&export=download&confirm=t (obproject)
-
 https://etoneya.su/whitelist
+
+https://drive.usercontent.google.com/download?id=1Rl6jIlf2Ula__J9F9nRmCuE6RFdqMTgk&export=download&confirm=t
+
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt
 
 Подписка BL собрана из:
 
