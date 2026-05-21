@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main
 
 https://gist.githubusercontent.com/flaafix/c79a81037d15163360571c7a7331b153/raw/AetrisVPN.txt (@AetrisVPN)
 
-https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full (xex_vpn)
+https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full (@xex_vpn)
 
 https://etoneya.su/whitelist
 
