@@ -4,54 +4,7 @@
 
 Подписка WL собрана из:
 
-https://mifa.world/vless (@mifa_world)
 
-https://mifa.world/other (@mifa_world)
-
-https://mifa.world/vmess (@mifa_world)
-
-https://mifa.world/trojan (@mifa_world)
-
-https://mifa.world/hysteria (@mifa_world)
-
-https://mifa.world/ss (@mifa_world)
-
-https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt (@zieng2)
-
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
-
-https://gist.githubusercontent.com/flaafix/c79a81037d15163360571c7a7331b153/raw/AetrisVPN.txt (@AetrisVPN)
-
-https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full (@xex_vpn)
-
-https://etoneya.su/whitelist
-
-https://drive.usercontent.google.com/download?id=1Rl6jIlf2Ula__J9F9nRmCuE6RFdqMTgk&export=download&confirm=t (@obprojects)
-
-https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt
 
 Подписка BL собрана из:
 
-https://mifa.world/vless (@mifa_world)
-
-https://mifa.world/other (@mifa_world)
-
-https://mifa.world/vmess (@mifa_world)
-
-https://mifa.world/trojan (@mifa_world)
-
-https://mifa.world/hysteria (@mifa_world)
-
-https://mifa.world/ss (@mifa_world)
-
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
-
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt
-
-https://gist.githubusercontent.com/flaafix/c79a81037d15163360571c7a7331b153/raw/AetrisVPN.txt (@AetrisVPN)
-
-https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt
-
-https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/wifi (@xex_vpn)
-
-https://drive.usercontent.google.com/download?id=1fyDn7sDRr7PEYm18ji30OsuKLoHmok9T&export=download&confirm=t (@obprojects)
