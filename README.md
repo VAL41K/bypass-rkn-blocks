@@ -6,54 +6,30 @@
 
 Подписка WL собрана из:
 
-https://mifa.world/vless
-
-https://mifa.world/other
-
-https://mifa.world/vmess
-
-https://mifa.world/trojan
-
-https://mifa.world/hysteria
-
-https://mifa.world/ss
+https://mifa.world/bobrik
 
 https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_universal.txt
 
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
 
-https://raw.githubusercontent.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt
-
 https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/whitelist.txt
 
+https://raw.githubusercontent.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt
+
 https://etoneya.su/whitelist
-
-https://pastefy.app/c6yY0YiN/raw
-
-https://pastefy.app/S5m36XMD/raw
 
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt
 
 Подписка BL собрана из:
 
-https://mifa.world/vless
-
-https://mifa.world/other
-
-https://mifa.world/vmess
-
-https://mifa.world/trojan
-
-https://mifa.world/hysteria
-
-https://mifa.world/ss
+https://mifa.world/bobrik
 
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
 
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt
 
-https://raw.githubusercontent.com/flaafix/AetrisVPN-black-list/refs/heads/main/configs.txt
+https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/blacklist.txt
 
-https://pastefy.app/c6yY0YiN/raw
+https://raw.githubusercontent.com/flaafix/AetrisVPN-black-list/refs/heads/main/configs.txt
 
 https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt
